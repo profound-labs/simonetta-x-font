@@ -1,9 +1,10 @@
 SplineFontDB: 3.0
 FontName: SimonettaX-Regular
-FullName: SimonettaX
-FamilyName: SimonettaX
+FullName: Simonetta X
+FamilyName: Simonetta X
 Weight: Regular
 Copyright: Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name "Simonetta"
+UComments: "2014-12-06: Extended with accented characters for the Slovenian and Pali languages."
 Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -21,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1333345933
-ModificationTime: 1417878261
+ModificationTime: 1417879941
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
